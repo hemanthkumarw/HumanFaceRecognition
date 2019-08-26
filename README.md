@@ -21,7 +21,7 @@
 * Run tester.py first since it generates training.yml file as it is used in videoTester.py
 * Use "videoTester.py" script to recognize faces real-time via web cam.
 
-## snapshot
+## Snapshot
 ![Example snapshot](./snapshot/hfc1.png)
 
 ## Contact
