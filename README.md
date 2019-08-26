@@ -22,7 +22,7 @@
 * Use "videoTester.py" script to recognize faces real-time via web cam.
 
 ## snapshot
-![Example snapshot](./snapshot/fc1.png)
+![Example snapshot](./snapshot/hfc1.png)
 
 ## Contact
 [Hemanth Kumar Woraram](https://hemanthkumarw.com/) - feel free to contact me!
