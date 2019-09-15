@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [Running the Application](#running-the-application)
 * [Snapshot](#snapshots)
+* [Acknowledgments](#acknowledgments)
 * [Contact](#contact)
 
 ## Technologies
@@ -24,5 +25,11 @@
 ## Snapshot
 ![Example snapshot](./snapshot/hfc1.png)
 
+## Acknowledgments
+* https://www.superdatascience.com/opencv-face-recognition/
+* https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
+
 ## Contact
 [Hemanth Kumar Woraram](https://hemanthkumarw.com/) - feel free to contact me!
+
+
